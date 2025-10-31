@@ -1,2 +1,2 @@
 # msp
-marketing science projects
+marketing data science research projects
